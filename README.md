@@ -40,4 +40,80 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 101 Contributions in the Year 2022
+ > 
+> 📦 50.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    20 commits     ████████░░░░░░░░░░░░░░░░░   34.48% 
+🌆 Daytime    20 commits     ████████░░░░░░░░░░░░░░░░░   34.48% 
+🌃 Evening    18 commits     ███████░░░░░░░░░░░░░░░░░░   31.03% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Tuesday      10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Wednesday    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Thursday     6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Friday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+Saturday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Vim script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jiaoew1991/jiaoew1991/main/charts/bar_graph.png) 
+
+
+ Last Updated on 26/07/2022 06:38:59 UTC
 <!--END_SECTION:waka-->
