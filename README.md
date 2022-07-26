@@ -37,4 +37,7 @@ me = SoftwareEngineer()
 
 [![Enwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaoew1991&count_private=true&show_icons=true)](https://github.com/jiaoew1991/jiaoew1991)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
