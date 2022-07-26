@@ -40,7 +40,7 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -115,5 +115,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jiaoew1991/jiaoew1991/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2022 07:10:11 UTC
+ Last Updated on 26/07/2022 07:27:46 UTC
 <!--END_SECTION:waka-->
