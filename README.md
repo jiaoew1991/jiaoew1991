@@ -40,9 +40,9 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
@@ -119,5 +119,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2022 04:27:59 UTC
+ Last Updated on 10/08/2022 05:20:30 UTC
 <!--END_SECTION:waka-->
