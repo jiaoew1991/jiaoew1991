@@ -46,6 +46,8 @@ me = SoftwareEngineer()
 
 **🐱 My GitHub Data** 
 
+> 🏆 180 Contributions in the Year 2022
+ > 
 > 📦 44.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -115,5 +117,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2022 17:48:56 UTC
+ Last Updated on 05/10/2022 18:40:44 UTC
 <!--END_SECTION:waka-->
