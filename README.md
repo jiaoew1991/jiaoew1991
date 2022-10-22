@@ -40,7 +40,7 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -85,8 +85,8 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CMake                    6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   26.41% 
-Text                     3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
+CMake                    6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+Text                     3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
 C++                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
 Go                       2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
 Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.06%
@@ -119,5 +119,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2022 16:36:00 UTC
+ Last Updated on 22/10/2022 17:32:15 UTC
 <!--END_SECTION:waka-->
