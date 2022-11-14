@@ -40,7 +40,7 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -48,7 +48,7 @@ me = SoftwareEngineer()
 
 > 🏆 238 Contributions in the Year 2022
  > 
-> 📦 45.1 kB Used in GitHub's Storage 
+> 📦 45.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,5 +118,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2022 07:21:08 UTC
+ Last Updated on 14/11/2022 08:31:00 UTC
 <!--END_SECTION:waka-->
