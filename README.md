@@ -42,7 +42,7 @@ me = SoftwareEngineer()
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -119,5 +119,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2022 04:25:24 UTC
+ Last Updated on 24/11/2022 05:18:29 UTC
 <!--END_SECTION:waka-->
