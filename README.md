@@ -40,7 +40,7 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -116,5 +116,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2023 23:18:35 UTC
+ Last Updated on 01/03/2023 01:46:38 UTC
 <!--END_SECTION:waka-->
