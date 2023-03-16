@@ -40,7 +40,7 @@ me = SoftwareEngineer()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoew1991&layout=compact)](https://github.com/jiaoew1991/jiaoew1991) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -48,11 +48,11 @@ me = SoftwareEngineer()
 
 > 📦 45.8 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2023
+> 🏆 139 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -103,18 +103,18 @@ milvus                   7 mins              ░░░░░░░░░░░�
 Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Python** 
 
 ```text
-Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 16/03/2023 09:18:03 UTC
+ Last Updated on 16/03/2023 10:19:21 UTC
 <!--END_SECTION:waka-->
